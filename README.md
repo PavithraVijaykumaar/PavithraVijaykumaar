@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavithraVijaykumaar
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data exploration and machine learning for analytics
+- 🌱 I’m currently learning Machine learning for Analytics
 
 <!---
 PavithraVijaykumaar/PavithraVijaykumaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
