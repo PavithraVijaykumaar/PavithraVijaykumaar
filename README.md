@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavithraVijaykumaar
 - 👀 I’m interested in Data Analytics / Data Science
-- 🌱 Python | Machine-learning | SQL | Excel | WebScraping | Streamlit | FastAPI | TextBlob | NLP
+- 🌱 Python | Machine-learning | SQL | Excel | WebScraping | NLP
   
 
 <!---
